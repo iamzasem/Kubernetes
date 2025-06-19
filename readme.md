@@ -1,5 +1,4 @@
 
----
 
 ````markdown
 # Kubernetes & Minikube Local Installer Script
